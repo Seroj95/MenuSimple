@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/menu_ad"
+    android:title="a"></item>
+    <item
+        android:id="@+id/menu"
+        android:title="ed"></item>
+    <item
+        android:id="@+id/menudelet"
+        android:orderInCategory="2"
+        android:title="deletr"></item>
+    <item
+        android:id="@+id/sss"
+        android:orderInCategory="1"
+        android:title="Avel"></item>
+    <item
+        android:id="@+id/ara"
+        android:orderInCategory="3"
+
+        android:title="asas"></item>
+    <item
+        android:checked="@+id/ara"
+        android:title="sd"></item>
+
+</menu>
